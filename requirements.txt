@@ -1,5 +1,0 @@
-streamlit
-pandas
-reportlab
-openpyxl
-xlsxwriter
